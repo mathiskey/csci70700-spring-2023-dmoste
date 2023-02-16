@@ -2,7 +2,10 @@ Replit Link: https://replit.com/@dmoste/Flask-Project-Moste#main.py
 
 Routes:
 https://Flask-Project-Moste.dmoste.repl.co/home  
+
 https://Flask-Project-Moste.dmoste.repl.co/about  
+
 https://Flask-Project-Moste.dmoste.repl.co/cat  
+
 https://Flask-Project-Moste.dmoste.repl.co/name
 
