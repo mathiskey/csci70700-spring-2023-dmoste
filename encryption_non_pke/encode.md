@@ -1,0 +1,1 @@
+For this portion of the homework, I've chosen to use a substitution cipher. This means each letter of the original method will be encoded with a different symbol. The user that is attempting to decode the message will know the mappings of original letter to the new symbol, so they can work backwards to decode.
