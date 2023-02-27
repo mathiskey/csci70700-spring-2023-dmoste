@@ -15,6 +15,7 @@ def decode(message):
     result = ""
     #loop through each letter in the message
     for letter in message:
+      #check if the letter is indeed a letter and not a number or punctuation
       if letter in alphabet:
         #get the new letter and add it to the result
         letter_index = alphabet.index(letter)
