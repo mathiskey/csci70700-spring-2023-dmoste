@@ -21,6 +21,7 @@ def decode(message):
         letter_index = alphabet.index(letter)
         new_letter = alphabet[(letter_index+shift)%26]
         result = result + new_letter
+      #simply append non letters to the result
       else:
         result = result + letter
     #print out the results
@@ -30,6 +31,7 @@ def decode(message):
     #check if the message has been decoded
     if input("Message Solved? ").upper() == "Y":
         solved = True
+    #continue shifting if not the answer
     else:
         shift += 1
       
