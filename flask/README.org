@@ -4,6 +4,8 @@ Routes:
 
 https://Flask-Project-Moste.dmoste.repl.co/  
 
+https://Flask-Project-Moste.dmoste.repl.co/home  
+
 https://Flask-Project-Moste.dmoste.repl.co/about  
 
 https://Flask-Project-Moste.dmoste.repl.co/cat  
