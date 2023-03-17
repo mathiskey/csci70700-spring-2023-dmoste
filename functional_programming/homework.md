@@ -4,4 +4,7 @@ I would rate coding in Racket as a 2, maybe. I can certainly see the advantage a
   (cond ((= m 0) (+ n 1))
         ((and (> m 0) (= n 0)) (ack (- m 1) 1))
         (else (ack (- m 1) (ack m (- n 1))))))
+(ack 1 2)
+(ack 2 3)
+(ack 3 4)
 
