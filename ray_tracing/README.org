@@ -1,11 +1,11 @@
 Replit Link: https://replit.com/@dmoste/pythonworkspace#main.py  
 
 
-1) How did changing the spectral quality of an object effect the output?  
+-- How did changing the spectral quality of an object effect the output?  
 
 The object got shinier when I increased the mirroring (whih is what I assume is the spectral quality).
 
-2) How did changing the size of the output affect the rendering time?  
+-- How did changing the size of the output affect the rendering time?  
 
 Inreasing the size of the output increased the rendering time.
 
